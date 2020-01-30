@@ -1,4 +1,4 @@
- #code by it4min
+#code by it4min
 #t.me/LinuxH
 #t.me/it4min
 import os
