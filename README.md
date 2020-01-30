@@ -12,7 +12,7 @@ pkg install python3 -y <br />
 
 # run
 <pre><code>
-git clone https://github.com/it4min/contactgeneratorn <br />
+git clone https://github.com/it4min/contactgenerator <br />
 cd contactgenerator <br />
 python3 Contact.py
 </code></pre>
