@@ -17,4 +17,4 @@ cd contactgenerator <br />
 python3 Contact.py
 </code></pre>
 # Code By : it4min <br />
-<a href="https://t.me/LinuxH">Telegram Channel</a>
+<a href="https://t.me/LinuxArmy">Telegram Channel</a>
