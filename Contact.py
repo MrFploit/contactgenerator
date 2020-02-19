@@ -1,5 +1,5 @@
 #code by it4min
-#t.me/LinuxH
+#t.me/LinuxArmy
 #t.me/it4min
 import os
 os.system("clear")
