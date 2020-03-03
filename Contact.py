@@ -10,7 +10,7 @@ baner = '''
 / /___/ /_/ / / / / /_/ /_/ / /__/ /_ 
 \____/\____/_/ /_/\__/\__,_/\___/\__/  
 
-   t.me/LinuxH
+   t.me/LinuxArmy
    Programmer: @it4min                                             
 '''
 print(baner)
