@@ -6,7 +6,7 @@ Mass production of phone numbers with arbitrary code
 <pre>
 <code>
 apt update <br />
-pkg install python3 -y <br />
+apt install python3 -y <br />
 </code></pre>
 
 
